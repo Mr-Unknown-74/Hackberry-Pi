@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB-C-Power-tester")(type "KiCad")(uri "E:/Dropbox/Hardware/GitCode/USB-C-Connectors/Kicad/Footprints/USB-C-Power-tester.pretty")(options "")(descr ""))
+  (lib (name "RASPI")(type "KiCad")(uri "${KIPRJMOD}/RASPI.pretty")(options "")(descr ""))
+  (lib (name "Project Library")(type "KiCad")(uri "${KIPRJMOD}/Project Library.pretty")(options "")(descr ""))
+)

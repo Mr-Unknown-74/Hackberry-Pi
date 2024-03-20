@@ -1,0 +1,3 @@
+Where are the rest of the datasheets, and why are the board scematics incomplete?
+
+I'm lazy and dont feel like making things neat like the silkscreen untill I release REV 1.0.

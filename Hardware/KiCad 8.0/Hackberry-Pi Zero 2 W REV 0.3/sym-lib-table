@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB-C-USB-3.2-rescue")(type "Legacy")(uri "${KIPRJMOD}/USB-C-USB-3.2-rescue.lib")(options "")(descr ""))
+)
